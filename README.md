@@ -76,7 +76,7 @@ At the root
 $ npm install
 ```
 
-At the root of the `/public` folder 
+Clone the web application project [game-session-feedback-app](https://github.com/lmicho/game-session-feedback-app)at the root of the current project and rename the folder `/public`.  At the root of the `/public` folder 
 
 ```sh
 $ npm install
