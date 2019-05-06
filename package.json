@@ -1,0 +1,29 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "service in node.js that allows players of an online game to submit",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "video",
+    "games",
+    "node",
+    "service",
+    "players",
+    "feedback",
+    "game"
+  ],
+  "author": "Lauriane Michaud",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.5",
+    "nodemon": "^1.19.0",
+    "request": "^2.88.0"
+  }
+}
